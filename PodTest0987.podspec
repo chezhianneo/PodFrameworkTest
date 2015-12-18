@@ -3,7 +3,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = 'PodTest0987'
-  spec.version      = '1.0.1'
+  spec.version      = '1.0.2'
   spec.license      = 'MIT'
   spec.summary      = 'Framework for test purposes'
   spec.homepage     = 'https://github.com/chezhianneo/PodFrameworkTest.git'
@@ -17,6 +17,6 @@ Pod::Spec.new do |spec|
   spec.dependency 'AFOAuth2Manager', "~> 2.2.0"
   spec.vendored_frameworks = 'Frameworks/PodTest12.framework'
   spec.resources = 'Resources/Resource.bundle'
-  spec.preserve_path = ''
+  spec.preserve_path = 'temp'
 end
 
