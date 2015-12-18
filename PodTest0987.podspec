@@ -2,14 +2,14 @@
 # TODO: What value for license?
 
 Pod::Spec.new do |spec|
-  spec.name         = 'PodTest12'
+  spec.name         = 'PodTest0987'
   spec.version      = '1.0.0'
   spec.license      = 'MIT'
   spec.summary      = 'Framework for test purposes'
-  spec.homepage     = 'https://github.com/earulraj/podtest123489'
+  spec.homepage     = 'https://github.com/chezhianneo/PodFrameworkTest.git'
 # spec.social_media_url = 'http://facebook'
-  spec.author       = 'Prosper Marketplace, Inc.'
-  spec.source       = { :git => 'https://github.com/earulraj/podtest123489.git', :tag => '1.0.0' }
+  spec.author       = 'Neo.'
+  spec.source       = { :git => 'https://github.com/chezhianneo/PodFrameworkTest.git', }
 #  spec.source_files = 'Library/*'
   spec.requires_arc = true
   spec.ios.deployment_target = '7.0'
