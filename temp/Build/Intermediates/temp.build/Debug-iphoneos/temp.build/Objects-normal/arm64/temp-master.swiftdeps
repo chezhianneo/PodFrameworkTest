@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "c7267269bb7e5cc0a2a3e88a86214fde"
+build_time: [503716503, 79299000]
+inputs:
+  "/Users/earulraj/Desktop/SampleWRX/temp/temp/ViewController.swift": [503716500, 0]
+  "/Users/earulraj/Desktop/SampleWRX/temp/temp/AppDelegate.swift": [503716500, 0]
